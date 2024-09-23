@@ -1,0 +1,66 @@
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+    background: linear-gradient(320deg, #4c49ac , #f2e690, #2df3cb);
+    margin: 5%;
+    line-height: 1.5;
+}
+
+.perfil{
+    text-align: center;
+}
+
+.perfil_img{
+    width: 350%;
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 3.5em;
+}
+
+.image{
+    width: 350px;
+    
+    
+}
+
+.text{
+    text-align: center;
+}
+
+.parrafo{
+    line-height: 1.5;
+    color: var(--grayish-blue);
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.social-button {
+    background-color: rgba(115, 246, 28, 0.89);
+    color: #ffffff;
+    border-radius: 2em;
+    font-weight: 800;
+    padding: 1em 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    width: 100px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.social-button:hover{
+    background-color: rgba(71, 197, 195, 0.951);
+    color: black;
+}
+
+.letra{
+    color: #ffffff;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+
+.logros{
+    text-align: center;
+    line-height: 1.5;
+    
+}
